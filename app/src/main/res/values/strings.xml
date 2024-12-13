@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JetPackComposeTutorial</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main_screen">MainScreenActivity</string>
+    <string name="title_activity_outlet_detail">OutletDetailActivity</string>
+</resources>
